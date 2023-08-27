@@ -1,0 +1,18 @@
+# Aprendizado em Node.js
+Bem-vindo ao meu repositório dedicado ao registro da minha jornada de aprendizado em Node.js! Neste espaço, estou documentando minha trajetória por meio do curso fornecido pela Alura.
+
+O principal objetivo que almejo alcançar ao final deste percurso é a habilidade de construir uma API REST robusta utilizando Node.js.
+
+Aqui, você encontrará um acervo completo do meu progresso, desde os primeiros passos até as etapas mais avançadas. 
+
+## Observação 
+Gostaria de salientar que meus códigos estão repletos de comentários. Optei por essa abordagem para registrar minhas anotações enquanto avançava nas leituras e no próprio curso. Isso me permitiu compreender melhor os conceitos e técnicas à medida que progredia.
+
+Agradeço por acompanhar a minha jornada e convido você a explorar o repositório para acompanhar o meu crescimento e evolução ao longo deste curso de Node.js!
+
+## Módulo 01 - Criando um projeto com NodeJS
+Nessa aula foi feita a criação do projeto básico utilizando o comando `npm init -y`.
+Também foi abordada a criação das definições de um servidor local, mais detalhes foram definidos no arquivo server.js
+
+### Bibliotecas utilizadas
+- Nodemon: Esta ferramenta é fundamental para o desenvolvimento contínuo. Com o Nodemon, desfruto da funcionalidade de recarregamento automático sempre que efetuo alterações no código. Ele é uma dependência crucial para otimizar o processo de desenvolvimento.
