@@ -16,3 +16,15 @@ Também foi abordada a criação das definições de um servidor local, mais det
 
 ### Bibliotecas utilizadas
 - Nodemon: Esta ferramenta é fundamental para o desenvolvimento contínuo. Com o Nodemon, desfruto da funcionalidade de recarregamento automático sempre que efetuo alterações no código. Ele é uma dependência crucial para otimizar o processo de desenvolvimento.
+
+## Módulo 02 - Trabalhando com o Express
+
+### O que é o Express? 
+O Express é um framework conhecido por sua velocidade, abordagem minimalista e falta de opinião imposta. Enquanto muitos frameworks tendem a definir padrões rígidos de código e estrutura, o Express adota uma postura diferente. Ele permite que você siga seus próprios ideais e abordagens, seja adotando o padrão MVR (Model View Roots) ou MVC (Model View Controller), ou até mesmo desenvolvendo sua própria metodologia. Dessa forma, o Express concede liberdade aos desenvolvedores, evitando impor um único padrão de desenvolvimento.
+
+### Continuando com o desenvolvimento da api
+Para seguir as melhores práticas, iniciamos criando uma pasta chamada "src" e nela inserimos o arquivo "app.js". Este arquivo contém, temporariamente, as rotas principais da API, as quais foram estruturadas seguindo o padrão CRUD (Create, Read, Update, Delete).
+
+Neste estágio inicial, não utilizarei um banco de dados específico. Em vez disso, estou utilizando um array simples para armazenar os dados. Isso permite focar na lógica da API antes de lidar com persistência de dados.
+
+Para testar as funcionalidades da API, estou usando o Postman, uma ferramenta que já estou familiarizados. Essa escolha nos permite validar o funcionamento das rotas e garantir que a API esteja respondendo conforme o esperado.
